@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# AWS-Stripe-Book-Store
+Developed an interactive and user-friendly e-commerce Book Store using React.js, with a CRUD Admin portal
+>>>>>>> 701d968c86c7c6e1f26ba878eda0dd390eb487bc
